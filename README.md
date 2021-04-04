@@ -1,24 +1,13 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Hello, world!
 
-Things you may want to cover:
+### 開発環境
 
-* Ruby version
+- OS：Windows 10
 
-* System dependencies
+- 言語：HTML, Ruby
 
-* Configuration
+- フレームワーク：Ruby on Rails
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- editor：Visual Studio Code
